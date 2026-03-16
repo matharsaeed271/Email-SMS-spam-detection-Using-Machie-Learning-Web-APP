@@ -1,3 +1,6 @@
+git add requirements.txt
+git commit -m "Fix dependencies for Streamlit deployment"
+git push
 numpy
 pandas
 matplotlib
