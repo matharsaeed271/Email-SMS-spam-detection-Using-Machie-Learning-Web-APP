@@ -7,4 +7,5 @@ pandas
 numpy
 scikit-learn
 joblib
-altair
+streamlit>=1.31.0
+altair>=5.0.0
